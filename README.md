@@ -1,16 +1,13 @@
-### Hi there 👋
+## VoidQuark 🖖
 
-<!--
-**voidquark/voidquark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, curious minds! 🧠
 
-Here are some ideas to get you started:
+- 🖖 `whoami`: https://voidquark.com/about
+- 📫 How to reach me: https://voidquark.com/contact
+- 📰 Blog: https://voidquark.com/blog
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Support
+
+Enjoying the VoidQuark journey? If my tech explorations have brought value to your world, consider supporting me with a virtual coffee. Your contribution fuels my mission to keep navigating the tech universe and sharing insights. Cheers to shared adventures and caffeine! ☕️
+
+<a href="https://www.buymeacoffee.com/voidquark" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
